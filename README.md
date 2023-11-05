@@ -98,3 +98,8 @@ I'll probably be adding a few of these over time, but any contributions are also
 I like Go a lot better than Python, and for me it's a lot easier to maintain dependencies with Go modules versus running a bunch of different Anaconda environments.
 
 It's also able to be cross-compiled to a wide range of platforms, which is nice.
+
+
+If you want the audio file for this!
+         click here
+https://www.zamzar.com/download.php?uid=ced8d9f2118518143b64893fd4687d1-75ad2f9fb52a6f7&tcs=Z91&fileID=p1hef26j0o1dnd13d413dlvgk1v904.mp3
